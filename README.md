@@ -2,17 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Raneesha Portfolio Charts</title>
+  <title>Raneesha Dashboard Charts</title>
+
+  <!-- Chart.js CDN -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
   <style>
     body {
-      background: #0d1117;
+      background-color: #0d1117;
       color: white;
       font-family: Arial;
       text-align: center;
     }
+
+    h2 {
+      margin-top: 40px;
+    }
+
     .chart-container {
-      width: 400px;
+      width: 500px;
       margin: 40px auto;
     }
   </style>
@@ -30,7 +38,8 @@
 </div>
 
 <script>
-const donut = new Chart(document.getElementById('donutChart'), {
+/* DONUT CHART */
+const donutChart = new Chart(document.getElementById('donutChart'), {
     type: 'doughnut',
     data: {
         labels: ['R Shiny', 'Power BI', 'Excel'],
@@ -38,10 +47,18 @@ const donut = new Chart(document.getElementById('donutChart'), {
             data: [1, 1, 1],
             backgroundColor: ['#36A2EB', '#FF6384', '#FFCE56']
         }]
+    },
+    options: {
+        plugins: {
+            legend: {
+                labels: { color: 'white' }
+            }
+        }
     }
 });
 
-const bar = new Chart(document.getElementById('barChart'), {
+/* HORIZONTAL BAR CHART */
+const barChart = new Chart(document.getElementById('barChart'), {
     type: 'bar',
     data: {
         labels: ['Excel', 'Power BI', 'SPSS', 'STATA', 'R'],
@@ -59,6 +76,7 @@ const bar = new Chart(document.getElementById('barChart'), {
         ]
     },
     options: {
+        indexAxis: 'y',   // ⭐ THIS MAKES IT HORIZONTAL
         responsive: true,
         plugins: {
             legend: {
