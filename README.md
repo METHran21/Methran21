@@ -1,4 +1,5 @@
-## Hi I'm Raneesha Methmini 👋
+## Hi I'm Raneesha 👋
+🌈🌈🌈🌈🌈🌈🌈
 
 🎓I'm a student of University of Sri Jayewardenepura. 
 
@@ -6,13 +7,3 @@
 
 ⭐I create beautiful dashboards to demonstrate the statistics of data. 
 
-
-💻 🖥️ ⌨️ 🖱️ 🔧 🛠️ ⚙️ 🔩 🧰 📟 🖨️ 💾 💿 📀 🔌 🔋
-🚀 Projects & Goals
-🚀 🎯 🏆 🥇 ✅ 📌 📍 🗺️ 🧭 💡 🔭 🌟  🌠 🎖️
-📚 Learning & Knowledge
-📚  📝 ✏️ 🧠  🔬 🧪 🧬  🗂️ 📋 🗒️
-🌐 Web & Internet
-🌐 🔗 📡 📶 🛜 🌍 🌎 🌏 🕸️ 📲 📱
-🎨 Design & Creative
-🎨 🖌️ ✍️  🎭 🎬 🖼️ 🎞️ 🎠 🌈 💎
