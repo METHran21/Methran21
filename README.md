@@ -2,24 +2,38 @@
 <h3 align="center">🎓 Undergraduate | Mathematics • Statistics • Economics</h3>
 
 <p align="center">
-📊 Passionate about Data Visualization & Dashboards
+📊 Data Visualization Enthusiast | Dashboard Designer
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
-- 🎓 University of Sri Jayewardenepura
-- 📊 I create dashboards using Power BI & R Shiny
-- 📫 Email: **methminiraneesha@gmail.com**
+## 👩‍💻 About Me
+
+<div align="center">
+
+| 💡 | Details |
+|---|--------|
+| 🎓 | University of Sri Jayewardenepura |
+| 📊 | Dashboard Creator (Power BI, R Shiny) |
+| 📈 | Interested in Data Analytics & Econometrics |
+| 📫 | methminiraneesha@gmail.com |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:**  
-`Python` `C++`
 
-**Tools:**  
-`R Shiny` `Power BI` `Excel` `STATA` `SPSS`
+<div align="center">
+
+| Category | Tools |
+|----------|------|
+| 💻 Languages | `Python` `C++` |
+| 📊 Analytics | `R` `STATA` `SPSS` |
+| 📈 Visualization | `Power BI` `R Shiny` `Excel` |
+| ⚙️ Platforms | `Linux` `Windows` |
+
+</div>
 
 ---
 
@@ -29,13 +43,54 @@
   <img src="https://github-readme-stats.vercel.app/api?username=METHran21&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=METHran21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 My Work Overview
+
+<div align="center">
+
+| Tool     | Dashboards | Assignments |
+|----------|-----------|-------------|
+| R Shiny  | 1         | —           |
+| Power BI | 1         | 1           |
+| Excel    | 1 (planned) | 1         |
+
+</div>
+
+---
+
+## 📊 Work Distribution
+
+<div align="center">
+
+| Software | Dashboards | Assignments |
+|----------|------------|-------------|
+| Excel    | ██████     | ██████      |
+| Power BI | ██████     | ██████      |
+| SPSS     |            | ██████      |
+| STATA    |            | ██████      |
+| R        | ██████     |             |
+| SQL      |            |             |
+| Python   |            |             |
+
+</div>
+
 ---
 
 ## 🌐 My Dashboard Website
 
-👉 [Click here to view my charts](https://your-username.github.io/your-repo-name/)
+<p align="center">
+👉 <a href="https://your-username.github.io/your-repo-name/">View Interactive Charts</a>
+</p>
 
 ---
 
-## 📊 Work Summary
+## ✨ Quote
 
+<p align="center">
+"Transforming data into meaningful insights 📊"
+</p>
