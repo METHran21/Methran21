@@ -81,14 +81,6 @@
 
 ---
 
-## 🌐 My Dashboard Website
-
-<p align="center">
-👉 <a href="https://your-username.github.io/your-repo-name/">View Interactive Charts</a>
-</p>
-
----
-
 ## ✨ Quote
 
 <p align="center">
