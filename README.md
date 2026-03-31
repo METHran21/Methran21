@@ -1,65 +1,81 @@
-## Hi I'm Raneesha 👋
-🌈🌈🌈🌈🌈🌈🌈
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Raneesha Portfolio Charts</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      background: #0d1117;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+    }
+    .chart-container {
+      width: 400px;
+      margin: 40px auto;
+    }
+  </style>
+</head>
+<body>
 
-<h1 align="center">🎓I'm a student of University of Sri Jayewardenepura.</h1> 
-
-<h3 align="center">🖊️I followed a physical Science Degree with three main subjects Mathematics, Statistics and Economics.</h1>
-
-<h3 align="center">⭐I create beautiful dashboards to demonstrate the statistics of data.</h3> 
-
-## 🙋‍♂️ About Me
-
-- 📫 Reach me at **methminiraneesha@gmail.com**
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Python` `C++`
-
-**Tools & Platforms:**  
-`Linux` `Windows`
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=METHran21&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=METHran21&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
-
-## 📊 My Work at a Glance
-
-<div align="center">
-
-| Tool | Dashboards | Assignments |
-|------|-----------|-------------|
-| R Shiny | 1 | — |
-| Power BI | 1 | 1 |
-| Excel *(planned)* | 1 | 1 |
-
+<h2>🍩 Dashboards by Platform</h2>
+<div class="chart-container">
+  <canvas id="donutChart"></canvas>
 </div>
 
-### 🍩 Dashboards by Platform
+<h2>📊 Work by Software</h2>
+<div class="chart-container">
+  <canvas id="barChart"></canvas>
+</div>
 
-```
-R Shiny  ████████████████░░░░░░░░  1
-Power BI ████████████████░░░░░░░░  1
-Excel    ████████████████░░░░░░░░  1 (planned)
-```
+<script>
+const donut = new Chart(document.getElementById('donutChart'), {
+    type: 'doughnut',
+    data: {
+        labels: ['R Shiny', 'Power BI', 'Excel'],
+        datasets: [{
+            data: [1, 1, 1],
+            backgroundColor: ['#36A2EB', '#FF6384', '#FFCE56']
+        }]
+    }
+});
 
-### 📊 Work by Software
+const bar = new Chart(document.getElementById('barChart'), {
+    type: 'bar',
+    data: {
+        labels: ['Excel', 'Power BI', 'SPSS', 'STATA', 'R'],
+        datasets: [
+            {
+                label: 'Dashboards',
+                data: [1, 1, 0, 0, 1],
+                backgroundColor: '#36A2EB'
+            },
+            {
+                label: 'Assignments',
+                data: [1, 1, 1, 1, 0],
+                backgroundColor: '#FF6384'
+            }
+        ]
+    },
+    options: {
+        responsive: true,
+        plugins: {
+            legend: {
+                labels: { color: 'white' }
+            }
+        },
+        scales: {
+            x: {
+                ticks: { color: 'white' }
+            },
+            y: {
+                ticks: { color: 'white' }
+            }
+        }
+    }
+});
+</script>
 
-```
-           Dashboards  Assignments
-Excel      ██████      
-Power BI   ██████ 
-SPSS                   ██████
-STATA                  ██████
-R          ██████
-SQL
-Python
-```
-
-> *Charts rendered using [Chart.js](https://www.chartjs.org/) — add interactive charts to your GitHub Pages portfolio!*
+</body>
+</html>
