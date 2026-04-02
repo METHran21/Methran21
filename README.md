@@ -42,6 +42,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1A4E8A?style=for-the-badge&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-4EA94B?style=for-the-badge&logoColor=white)
 
 **📈 Visualization**
 
