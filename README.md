@@ -73,7 +73,7 @@
 |:---:|:---:|:---:|
 | ![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white) | ✅ 1 | — |
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ✅ 1 | ✅ 1 |
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | 🚧 1 planned | ✅ 1 |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ✅ 1 | ✅ 1 |
 
 </div>
 
