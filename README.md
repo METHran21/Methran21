@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=METHran21&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=METHran21&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
