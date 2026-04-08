@@ -73,35 +73,21 @@
 
 <div align="center">
 
-| 🔧 Tool | 📊 Dashboards | 📝 Assignments |
+| 🔧 Tool | 📊 Dashboards | 📝 EDA |
 |:---:|:---:|:---:|
-| ![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white) | ✅ 1 | — |
+| ![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white) | ✅ 1 | ✅ 1 |
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ✅ 1 | ✅ 1 |
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ✅ 1 | ✅ 1 |
+| ![STATA](https://img.shields.io/badge/STATA-1A4E8A?style=for-the-badge&logoColor=white) | — | ✅ 1 |
+| ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white) | — | ✅ 1 |
+| ![Minitab](https://img.shields.io/badge/Minitab-4EA94B?style=for-the-badge&logoColor=white) | — | ✅ 1 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | — | — |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | — | — |
 
 </div>
 
 ---
 
-## 📊 Work Distribution
-
-<div align="center">
-
-| Software | Dashboards | Assignments |
-|:---|:---:|:---:|
-| Excel | 🟪🟪🟪🟪🟪🟪 | 🟪🟪🟪🟪🟪🟪 |
-| Power BI | 🟪🟪🟪🟪🟪🟪 | 🟪🟪🟪🟪🟪🟪 |
-| R Shiny | 🟪🟪🟪🟪🟪🟪 | ⬛⬛⬛⬛⬛⬛ |
-| SPSS | ⬛⬛⬛⬛⬛⬛ | 🟪🟪🟪🟪🟪🟪 |
-| STATA | ⬛⬛⬛⬛⬛⬛ | 🟪🟪🟪🟪🟪🟪 |
-| Python | 🔲🔲🔲🔲🔲🔲 | 🔲🔲🔲🔲🔲🔲 |
-| SQL | 🔲🔲🔲🔲🔲🔲 | 🔲🔲🔲🔲🔲🔲 |
-
-> 🟪 Active &nbsp;&nbsp; ⬛ Not used for this &nbsp;&nbsp; 🔲 In Progress
-
-</div>
-
----
 
 ## ✨ Quote
 
