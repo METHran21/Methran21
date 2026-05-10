@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=University+of+Sri+Jayewardenepura;Dashboard+Creator+%7C+Power+BI+%2B+R+Shiny;Data+Analytics+%26+Econometrics+Enthusiast;methminiraneesha%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=University+of+Sri+Jayewardenepura;Dashboard+Creator+%7C+Power+BI+%2B+R+Shiny+%2B+Excel;Data+Analysis+%7C+Research+%26+Statistics;methminiraneesha%40gmail.com" alt="Typing SVG" />
 </p>
 
 <div align="center">
