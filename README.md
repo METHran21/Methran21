@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raneesha</h1>
-<h3 align="center">🎓 Undergraduate | Mathematics • Statistics • Economics</h3>
+<h3 align="center">🎓 Fresh graduate | Mathematics • Statistics • Economics</h3>
 <p align="center">📊 Data Visualization Enthusiast | Dashboard Designer</p>
 
 ---
@@ -19,7 +19,7 @@
       <td align="center">📊</td><td>Dashboard Creator <code>Power BI</code> <code>R Shiny</code><code>Excel</code></td>
     </tr>
     <tr>
-      <td align="center">📈</td><td>Interested in <b>Data Analytics & Econometrics</b></td>
+      <td align="center">📈</td><td>Interested in <b>Data Analysis Research and Statistics</b></td>
     </tr>
     <tr>
       <td align="center">📫</td><td>methminiraneesha@gmail.com</td>
