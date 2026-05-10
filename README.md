@@ -16,7 +16,7 @@
       <td align="center">🎓</td><td><b>University of Sri Jayewardenepura</b></td>
     </tr>
     <tr>
-      <td align="center">📊</td><td>Dashboard Creator <code>Power BI</code> <code>R Shiny</code></td>
+      <td align="center">📊</td><td>Dashboard Creator <code>Power BI</code> <code>R Shiny</code><code>Excel</code></td>
     </tr>
     <tr>
       <td align="center">📈</td><td>Interested in <b>Data Analytics & Econometrics</b></td>
